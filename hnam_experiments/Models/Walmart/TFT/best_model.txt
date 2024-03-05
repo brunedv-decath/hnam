@@ -1,0 +1,10 @@
+1767
+../Models/Walmart/TFT/lightning_logs/version_0/checkpoints/model-223-0.64.ckpt
+1798
+../Models/Walmart/TFT/lightning_logs/version_1/checkpoints/model-88-0.66.ckpt
+1829
+../Models/Walmart/TFT/lightning_logs/version_2/checkpoints/model-76-0.60.ckpt
+1858
+../Models/Walmart/TFT/lightning_logs/version_3/checkpoints/model-29-0.68.ckpt
+1889
+../Models/Walmart/TFT/lightning_logs/version_4/checkpoints/model-83-0.68.ckpt

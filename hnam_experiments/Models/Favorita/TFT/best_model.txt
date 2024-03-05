@@ -1,0 +1,10 @@
+1424.0
+../Models/Favorita/TFT/lightning_logs/version_0/checkpoints/model-253-0.50.ckpt
+1454.0
+../Models/Favorita/TFT/lightning_logs/version_1/checkpoints/model-98-0.53.ckpt
+1484.0
+../Models/Favorita/TFT/lightning_logs/version_2/checkpoints/model-62-0.50.ckpt
+1512.0
+../Models/Favorita/TFT/lightning_logs/version_3/checkpoints/model-06-0.51.ckpt
+1543.0
+../Models/Favorita/TFT/lightning_logs/version_4/checkpoints/model-99-0.50.ckpt

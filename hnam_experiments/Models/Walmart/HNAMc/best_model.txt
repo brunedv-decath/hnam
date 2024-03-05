@@ -1,0 +1,12 @@
+1767
+../Models/Walmart/HNAMc/lightning_logs/version_1/checkpoints/model-120-0.64.ckpt
+1767
+../Models/Walmart/HNAMc/lightning_logs/version_2/checkpoints/model-161-0.63.ckpt
+1798
+../Models/Walmart/HNAMc/lightning_logs/version_3/checkpoints/model-98-0.67.ckpt
+1829
+../Models/Walmart/HNAMc/lightning_logs/version_4/checkpoints/model-90-0.60.ckpt
+1858
+../Models/Walmart/HNAMc/lightning_logs/version_5/checkpoints/model-95-0.65.ckpt
+1889
+../Models/Walmart/HNAMc/lightning_logs/version_6/checkpoints/model-83-0.70.ckpt
