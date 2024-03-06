@@ -13,19 +13,17 @@ Have a (fresh) environment with Python = 3.10, to create one with conda, run
 
 If you are working on windows, you need to first install PyTorch with
 
-`pip install torch -f https://download.pytorch.org/whl/torch_stable.html`.
+`pip install torch -f https://download.pytorch.org/whl/torch_stable.html`
 
 Now, install pytorch-forecasting with HNAM:
 
 'pip install git+https://github.com/DonLeif/hnam.git'
 
+To explore HNAMs experiments and introduction, clone this repo with:
 
+`git clone https://github.com/DonLeif/hnam.git`
 
-
-
-
-
-
+and check out the introductory notebook at hnam_introduction.<n>
 
 
 
