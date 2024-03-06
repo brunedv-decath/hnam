@@ -140,7 +140,6 @@ lightning_logs
 
 # checkpoints
 *.ckpt
-*.pkl
 .DS_Store
 
 # data
