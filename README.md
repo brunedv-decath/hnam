@@ -5,10 +5,31 @@ on demand predictions where future covariates are known.
 
 ![HNAM](./docs/readme_figs/diagram.png)
 
+Installation of the forked and modified pytorch-forecasting package including HNAM:
+
+Have a (fresh) environment with Python = 3.10, to create one with conda, run
+
+`conda create -n hnam python=3.10`
+
+If you are working on windows, you need to first install PyTorch with
+
+`pip install torch -f https://download.pytorch.org/whl/torch_stable.html`.
+
+Now, install pytorch-forecasting with HNAM:
+
+'pip install git+https://github.com/DonLeif/hnam.git'
 
 
 
-Original PyTorch Forecasting README below:
+
+
+
+
+
+
+
+
+Original PyTorch Forecasting README below:<n>
 ![PyTorch Forecasting](./docs/source/_static/logo.svg)
 
 [pypi-image]: https://badge.fury.io/py/pytorch-forecasting.svg
