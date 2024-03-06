@@ -17,7 +17,7 @@ If you are working on windows, you need to first install PyTorch with
 
 Now, install pytorch-forecasting with HNAM:
 
-'pip install git+https://github.com/DonLeif/hnam.git'
+`pip install git+https://github.com/DonLeif/hnam.git`
 
 To explore HNAMs experiments and introduction, clone this repo with:
 
