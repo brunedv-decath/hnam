@@ -23,11 +23,11 @@ To explore HNAMs experiments and introduction, clone this repo with:
 
 `git clone https://github.com/DonLeif/hnam.git`
 
-and check out the introductory notebook at hnam_introduction.<n>
+and check out the introductory notebook at hnam_introduction.<br />
 
 
 
-Original PyTorch Forecasting README below:<n>
+Original PyTorch Forecasting README below:<br />
 ![PyTorch Forecasting](./docs/source/_static/logo.svg)
 
 [pypi-image]: https://badge.fury.io/py/pytorch-forecasting.svg
